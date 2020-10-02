@@ -1,3 +1,5 @@
+package entidades;
+
 public class Situacao {
     private int idSituacao;
     private String nome;

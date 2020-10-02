@@ -1,3 +1,5 @@
+package entidades;
+
 public class Beneficio {
     private int idBeneficio;
     private String nome;

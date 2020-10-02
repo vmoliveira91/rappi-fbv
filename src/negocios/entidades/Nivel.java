@@ -1,3 +1,5 @@
+package entidades;
+
 public class Nivel {
     private int idNivel;
     private String nome;

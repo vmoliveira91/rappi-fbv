@@ -1,3 +1,5 @@
+package entidades;
+
 public class Profile {
     private int idProfile;
     private Usuario usuario;

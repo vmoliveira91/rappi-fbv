@@ -1,3 +1,5 @@
+package entidades;
+
 import java.util.Date;
 
 public class Transacao {
